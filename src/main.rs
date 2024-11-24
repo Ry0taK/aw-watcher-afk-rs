@@ -1,3 +1,4 @@
+#![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 use chrono::{DateTime, Utc};
 use gethostname;
 use serde_json;
