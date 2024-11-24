@@ -1,0 +1,1 @@
+Rust implementation of [aw-watcher-afk](https://github.com/ActivityWatch/aw-watcher-afk). Currently only Windows is supported.  
